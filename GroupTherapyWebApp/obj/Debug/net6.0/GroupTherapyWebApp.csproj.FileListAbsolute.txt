@@ -269,3 +269,5 @@ C:\Users\joshw\OneDrive\Documents\GitHub\Test-Backend\GroupTherapyWebApp\obj\Deb
 C:\Users\joshw\OneDrive\Documents\GitHub\Test-Backend\GroupTherapyWebApp\obj\Debug\net6.0\GroupTherapyWebApp.pdb
 C:\Users\joshw\OneDrive\Documents\GitHub\Test-Backend\GroupTherapyWebApp\obj\Debug\net6.0\GroupTherapyWebApp.genruntimeconfig.cache
 C:\Users\joshw\OneDrive\Documents\GitHub\Test-Backend\GroupTherapyWebApp\obj\Debug\net6.0\ref\GroupTherapyWebApp.dll
+C:\Users\joshw\OneDrive\Documents\GitHub\Test-Backend\GroupTherapyWebApp\obj\Debug\net6.0\GroupTherapyWebApp.RazorAssemblyInfo.cache
+C:\Users\joshw\OneDrive\Documents\GitHub\Test-Backend\GroupTherapyWebApp\obj\Debug\net6.0\GroupTherapyWebApp.RazorAssemblyInfo.cs

@@ -6,6 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="Views\dashboard.cshtml" />
+    <Content Remove="Views\family_group.cshtml" />
+    <Content Remove="Views\index.cshtml" />
+    <Content Remove="Views\member_profile.cshtml" />
+  </ItemGroup>
+
 	<ItemGroup>
 		<PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="6.0.10" />
 		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.10" />
@@ -18,9 +25,7 @@
 
   <ItemGroup>
     <Folder Include="Areas\" />
-    <Folder Include="Models\" />
     <Folder Include="Data\" />
-    <Folder Include="Views\" />
   </ItemGroup>
 
 </Project>

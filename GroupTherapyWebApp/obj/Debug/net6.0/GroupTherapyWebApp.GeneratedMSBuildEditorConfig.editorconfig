@@ -14,3 +14,19 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\joshw\OneDrive\Documents\GitHub\Test-Backend\GroupTherapyWebApp
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/joshw/OneDrive/Documents/GitHub/Test-Backend/GroupTherapyWebApp/Views/Home/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshw/OneDrive/Documents/GitHub/Test-Backend/GroupTherapyWebApp/Views/Home/Family_group.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGYW1pbHlfZ3JvdXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshw/OneDrive/Documents/GitHub/Test-Backend/GroupTherapyWebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/joshw/OneDrive/Documents/GitHub/Test-Backend/GroupTherapyWebApp/Views/Home/Member_profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNZW1iZXJfcHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
