@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using GroupTherapyWebApp.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace GroupTherapyWebApp.Controllers
 {
