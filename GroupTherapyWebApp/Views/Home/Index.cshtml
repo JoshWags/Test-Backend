@@ -42,7 +42,7 @@
                 <p class="pageLogoFancy">PetPal</p>
                 <div class="welcomeButton">
                     <button class= "buttonCustomTitle" onclick="showSignUp();">Log In</button>
-                    <a href="Dashboard.cshtml" target ="_self"> <button class= "buttonCustomTitle" >Sign In</button></a>
+                    <a href="@Url.Action("Dashboard", "Home")" target ="_self"> <button class= "buttonCustomTitle" >Sign In</button></a>
                 </div>
             </div>
             <!--Image/Slideshow area.-->
@@ -87,7 +87,7 @@
                     <p class="forgotText" title="Reset Your Password.">Forgot Password</p>            
                 </div>
                 <div class="overlaySectionForm">
-                    <a href="Dashboard.cshtml" target ="_self"><button class= "buttonCustomTitle" onclick="showSignUp()">Log in</button></a>
+                    <a href="@Url.Action("Dashboard", "Home")" target ="_self"><button class= "buttonCustomTitle" onclick="showSignUp()">Log in</button></a>
                 </div>
                 <br></br>
             </div>
